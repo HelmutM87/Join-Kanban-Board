@@ -456,6 +456,7 @@ input:focus-visible {
         fill: var(--dark-blue);
     }
 
+
     /* Logo postion after animation!!  */
     @keyframes move-to-top-left {
         from {
@@ -529,5 +530,34 @@ input:focus-visible {
     .legal-topics a:hover {
         color: var(--Ligth-blue);
         font-weight: 700;
+    }
+}
+
+@media (max-height: 799px) {
+    .not-user-text {
+        font-size: 16px;
+    }
+
+    .sign-up-button {
+        padding: 12px 14px;
+        font-size: 14px;
+    }
+
+    .logo {
+        height: 60px;
+        width: auto;
+    }
+
+    .form-box {
+        padding: 20px 15px;
+        gap: 12px;
+    }
+
+    .input-box {
+        gap: 16px;
+    }
+
+    .button-box {
+        gap: 12px;
     }
 }
