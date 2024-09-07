@@ -19,7 +19,7 @@ let allTasks = [
       "lname": "Kruse",
       "backgroundcolor": "#FF5733"
     }, {
-      "fname": "Berthold",
+      "fname": "Bert",
       "lname": "Wiebe",
       "backgroundcolor": "#33FF4F"
     }],
@@ -42,15 +42,15 @@ let allTasks = [
     "titel": "HTML Base Template Creation",
     "userList": [{
       "fname": "Frank",
-      "lname": "Bülling",
+      "lname": "Billig",
       "backgroundcolor": "#FFDA33"
     }, {
-      "fname": "Johanna",
-      "lname": "Held",
+      "fname": "Johann",
+      "lname": "Hassel",
       "backgroundcolor": "#3633FF"
     }, {
       "fname": "Viktor",
-      "lname": "Schmidt",
+      "lname": "Kunze",
       "backgroundcolor": "#33FF74"
     }],
     "progressfield": "await_feedback_container"
@@ -73,7 +73,7 @@ let allTasks = [
     "titel": "Contact Form & Imprint",
     "userList": [{
       "fname": "Stefan",
-      "lname": "Dietz",
+      "lname": "Dietrich",
       "backgroundcolor": "#33FF7A"
     }, {
       "fname": "Horst",
@@ -81,7 +81,7 @@ let allTasks = [
       "backgroundcolor": "#FFF033"
     }, {
       "fname": "Detlef",
-      "lname": "Sierts",
+      "lname": "Saale",
       "backgroundcolor": "#AFFF33"
     }],
     "progressfield": "await_feedback_container"
@@ -104,15 +104,15 @@ let allTasks = [
     "titel": "Define Architecture Planning",
     "userList": [{
       "fname": "Waldemar",
-      "lname": "Günther",
+      "lname": "Günz",
       "backgroundcolor": "#B833FF"
     }, {
       "fname": "Fabian",
-      "lname": "Zacharias",
+      "lname": "Zietsche",
       "backgroundcolor": "#FF9F33"
     }, {
       "fname": "Jessica",
-      "lname": "Engels",
+      "lname": "Enns",
       "backgroundcolor": "#33A5FF"
     }],
     "progressfield": "done_container"

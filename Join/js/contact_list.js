@@ -85,7 +85,7 @@ let contact_list = [
     {
         "id": "11",
         "name": "Braun",
-        "given_name": "Martin",
+        "given_name": "Markus",
         "e-mail": "mabra@gmail.com",
         "color": "rgb(122,196,227)",
         "phone": "04589654422"
@@ -93,7 +93,7 @@ let contact_list = [
     {
         "id": "12",
         "name": "Friesen",
-        "given_name": "Angelika",
+        "given_name": "Agnes",
         "e-mail": "angi94@gmail.com",
         "color": "rgb(2,109,186)",
         "phone": "0698745112"
@@ -117,7 +117,7 @@ let contact_list = [
     {
         "id": "15",
         "name": "Giesbrecht",
-        "given_name": "Manfred",
+        "given_name": "Manuel",
         "e-mail": "magies@gmail.com",
         "color": "rgb(158,201,100)",
         "phone": "04598878956"
