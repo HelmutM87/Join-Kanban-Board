@@ -314,7 +314,9 @@ function dragAndDropPopup(taskId) {
 function generateDragAndDropPopupHtml(taskId) {
   return /*html*/`
   <div class="mobile-drag-menu">
-            <img class="img_popup img_popup_mobile" style="cursor: pointer;"  src="./assets/img/close_icon.svg" alt="close Button" onclick="dragAndDropPopup()">
+        <div style="display: flex; justify-content: flex-end; width: 80%;">
+          <img class="img_popup img_popup_mobile" style="cursor: pointer;"  src="./assets/img/close_icon.svg" alt="close Button" onclick="dragAndDropPopup()">
+        </div>
         <div class="mobile-drag-item" onclick="moveToMobile('todo_container', ${taskId})">To do</div>
         <div class="mobile-drag-item" onclick="moveToMobile('inprogress_container', ${taskId})">In progress</div>
         <div class="mobile-drag-item" onclick="moveToMobile('await_feedback_container', ${taskId})">Await feedback</div>
