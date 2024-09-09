@@ -13,7 +13,7 @@ let allTasks = [
       { "name": "works", "status": false },
       { "name": "other stuff", "status": false }
     ],
-    "titel": "Kochwelt Page & Recipe Recommender",
+    "titel": "Homepage & Recommender",
     "userList": [{
       "fname": "Claudia",
       "lname": "Kruse",
