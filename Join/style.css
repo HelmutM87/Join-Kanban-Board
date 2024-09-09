@@ -210,3 +210,9 @@ select:focus-visible {
     overflow: scroll;
   }
 }
+
+@media screen and (max-height: 799px) {
+  h1 {
+    font-size: 42px;
+  }
+}
