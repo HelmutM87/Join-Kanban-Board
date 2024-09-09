@@ -534,6 +534,15 @@ input:focus-visible {
 }
 
 @media (max-height: 799px) {
+
+    #form-box-sign-up{
+        padding: 48px !important;
+    }
+
+    #sign-up-headline{
+        font-size: 40px !important;
+    } 
+
     .not-user-text {
         font-size: 16px;
     }
@@ -549,7 +558,7 @@ input:focus-visible {
     }
 
     .form-box {
-        padding: 20px 15px;
+        padding: 48px 15px;
         gap: 12px;
     }
 
